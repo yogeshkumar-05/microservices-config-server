@@ -1,7 +1,5 @@
 #Database Confuguration
 spring:
-  application:
-    name: YOGESH
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/microservice
     username: root
