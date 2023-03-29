@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: YOGESH-KUMAR
 eureka:
   instance:
     prefer-ip-address: true
